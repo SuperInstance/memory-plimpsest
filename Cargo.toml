@@ -1,0 +1,9 @@
+[package]
+name = "memory-plimpsest"
+version = "0.1.0"
+edition = "2021"
+description = "Layered memory system with ghost traces — writes stack as semi-transparent layers, older content fades but remains readable"
+license = "MIT"
+repository = "https://github.com/SuperInstance/memory-plimpsest"
+
+[dependencies]
